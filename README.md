@@ -30,16 +30,6 @@ Copy code
 cd intermediate/project_name
 Open the project in Visual Studio.
 
-Fork the repository.
-Create a new branch (git checkout -b feature/new-project).
-Add your project in the appropriate folder and make sure it follows the structure.
-Push the changes (git push origin feature/new-project).
-Create a new Pull Request.
-Credits
-Main Developer: Your Name
-Contributors: [List of contributors]
-License
-This repository is licensed under the [License Type] License. See the LICENSE file for more details.
 
 Contact
 For more information, questions, or suggestions:
