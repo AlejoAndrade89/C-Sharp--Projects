@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\BranchingAssignment\BranchingAssignment\bin\Debug\netcoreapp3.1\BranchingAssignment.exe
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\BranchingAssignment\BranchingAssignment\bin\Debug\netcoreapp3.1\BranchingAssignment.deps.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\BranchingAssignment\BranchingAssignment\bin\Debug\netcoreapp3.1\BranchingAssignment.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\BranchingAssignment\BranchingAssignment\bin\Debug\netcoreapp3.1\BranchingAssignment.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\BranchingAssignment\BranchingAssignment\bin\Debug\netcoreapp3.1\BranchingAssignment.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\BranchingAssignment\BranchingAssignment\bin\Debug\netcoreapp3.1\BranchingAssignment.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.sourcelink.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.genruntimeconfig.cache
