@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Desktop\\Basic_C#_Programs\\myConsoleProject.cs\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\myConsoleProject.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15E04E96-B4FB-4506-B76D-31909DF25970}|myConsoleProject.cs\\myConsoleProject.cs..csproj|c:\\users\\danie\\onedrive\\desktop\\javascript_projects\\c-sharp--projects\\basic_c#_programs\\myconsoleproject.cs\\myconsoleproject.cs\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E04E96-B4FB-4506-B76D-31909DF25970}|myConsoleProject.cs\\myConsoleProject.cs..csproj|solutionrelative:myconsoleproject.cs\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\myConsoleProject.cs\\myConsoleProject.cs\\Class1.cs",
+              "RelativeDocumentMoniker": "myConsoleProject.cs\\Class1.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\myConsoleProject.cs\\myConsoleProject.cs\\Class1.cs",
+              "RelativeToolTip": "myConsoleProject.cs\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T23:04:04.617Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\bin\Debug\netcoreapp3.1\switchAssignment.exe
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\bin\Debug\netcoreapp3.1\switchAssignment.deps.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\bin\Debug\netcoreapp3.1\switchAssignment.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\bin\Debug\netcoreapp3.1\switchAssignment.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\bin\Debug\netcoreapp3.1\switchAssignment.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\bin\Debug\netcoreapp3.1\switchAssignment.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\obj\Debug\netcoreapp3.1\switchAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\obj\Debug\netcoreapp3.1\switchAssignment.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\obj\Debug\netcoreapp3.1\switchAssignment.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\obj\Debug\netcoreapp3.1\switchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\obj\Debug\netcoreapp3.1\switchAssignment.sourcelink.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\obj\Debug\netcoreapp3.1\switchAssignment.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\obj\Debug\netcoreapp3.1\switchAssignment.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\obj\Debug\netcoreapp3.1\switchAssignment.genruntimeconfig.cache

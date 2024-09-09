@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\bin\Debug\netcoreapp3.1\whileAssignment.exe
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\bin\Debug\netcoreapp3.1\whileAssignment.deps.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\bin\Debug\netcoreapp3.1\whileAssignment.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\bin\Debug\netcoreapp3.1\whileAssignment.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\bin\Debug\netcoreapp3.1\whileAssignment.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\bin\Debug\netcoreapp3.1\whileAssignment.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\obj\Debug\netcoreapp3.1\whileAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\obj\Debug\netcoreapp3.1\whileAssignment.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\obj\Debug\netcoreapp3.1\whileAssignment.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\obj\Debug\netcoreapp3.1\whileAssignment.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\obj\Debug\netcoreapp3.1\whileAssignment.sourcelink.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\obj\Debug\netcoreapp3.1\whileAssignment.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\obj\Debug\netcoreapp3.1\whileAssignment.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\whileAssignment\obj\Debug\netcoreapp3.1\whileAssignment.genruntimeconfig.cache

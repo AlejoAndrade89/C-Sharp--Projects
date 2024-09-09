@@ -11,3 +11,17 @@ C:\Users\danie\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject.cs\myConsoleP
 C:\Users\danie\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs..dll
 C:\Users\danie\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs..pdb
 C:\Users\danie\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs..genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs..AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs..AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs..csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs..sourcelink.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs..dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs..pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\netcoreapp3.1\myConsoleProject.cs..exe
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\netcoreapp3.1\myConsoleProject.cs..deps.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\netcoreapp3.1\myConsoleProject.cs..runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\netcoreapp3.1\myConsoleProject.cs..runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\netcoreapp3.1\myConsoleProject.cs..dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\netcoreapp3.1\myConsoleProject.cs..pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs..genruntimeconfig.cache

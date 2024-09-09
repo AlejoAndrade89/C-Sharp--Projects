@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\doWhileAssignment\bin\Debug\netcoreapp3.1\doWhileAssignment.exe
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\doWhileAssignment\bin\Debug\netcoreapp3.1\doWhileAssignment.deps.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\doWhileAssignment\bin\Debug\netcoreapp3.1\doWhileAssignment.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\doWhileAssignment\bin\Debug\netcoreapp3.1\doWhileAssignment.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\doWhileAssignment\bin\Debug\netcoreapp3.1\doWhileAssignment.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\doWhileAssignment\bin\Debug\netcoreapp3.1\doWhileAssignment.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\doWhileAssignment\obj\Debug\netcoreapp3.1\doWhileAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\doWhileAssignment\obj\Debug\netcoreapp3.1\doWhileAssignment.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\doWhileAssignment\obj\Debug\netcoreapp3.1\doWhileAssignment.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\doWhileAssignment\obj\Debug\netcoreapp3.1\doWhileAssignment.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\doWhileAssignment\obj\Debug\netcoreapp3.1\doWhileAssignment.sourcelink.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\doWhileAssignment\obj\Debug\netcoreapp3.1\doWhileAssignment.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\doWhileAssignment\obj\Debug\netcoreapp3.1\doWhileAssignment.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\whileAssignment\doWhileAssignment\obj\Debug\netcoreapp3.1\doWhileAssignment.genruntimeconfig.cache
