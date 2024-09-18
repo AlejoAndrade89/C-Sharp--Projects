@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AppArrayAssignment\AppArrayAssignment\obj\Debug\netcoreapp3.1\AppArrayAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AppArrayAssignment\AppArrayAssignment\obj\Debug\netcoreapp3.1\AppArrayAssignment.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AppArrayAssignment\AppArrayAssignment\obj\Debug\netcoreapp3.1\AppArrayAssignment.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AppArrayAssignment\AppArrayAssignment\obj\Debug\netcoreapp3.1\AppArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AppArrayAssignment\AppArrayAssignment\obj\Debug\netcoreapp3.1\AppArrayAssignment.sourcelink.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AppArrayAssignment\AppArrayAssignment\bin\Debug\netcoreapp3.1\AppArrayAssignment.exe
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AppArrayAssignment\AppArrayAssignment\bin\Debug\netcoreapp3.1\AppArrayAssignment.deps.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AppArrayAssignment\AppArrayAssignment\bin\Debug\netcoreapp3.1\AppArrayAssignment.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AppArrayAssignment\AppArrayAssignment\bin\Debug\netcoreapp3.1\AppArrayAssignment.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AppArrayAssignment\AppArrayAssignment\bin\Debug\netcoreapp3.1\AppArrayAssignment.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AppArrayAssignment\AppArrayAssignment\bin\Debug\netcoreapp3.1\AppArrayAssignment.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AppArrayAssignment\AppArrayAssignment\obj\Debug\netcoreapp3.1\AppArrayAssignment.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AppArrayAssignment\AppArrayAssignment\obj\Debug\netcoreapp3.1\AppArrayAssignment.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AppArrayAssignment\AppArrayAssignment\obj\Debug\netcoreapp3.1\AppArrayAssignment.genruntimeconfig.cache

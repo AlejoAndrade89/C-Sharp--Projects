@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\ArraysAndLists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0CD8E8-BEED-47CF-ADF7-5429D5B90833}|ArraysAndLists\\ArraysAndLists.csproj|c:\\users\\danie\\onedrive\\desktop\\javascript_projects\\c-sharp--projects\\basic_c#_programs\\arraysandlists\\arraysandlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0CD8E8-BEED-47CF-ADF7-5429D5B90833}|ArraysAndLists\\ArraysAndLists.csproj|solutionrelative:arraysandlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\ArraysAndLists\\ArraysAndLists\\Program.cs",
+              "RelativeDocumentMoniker": "ArraysAndLists\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\ArraysAndLists\\ArraysAndLists\\Program.cs",
+              "RelativeToolTip": "ArraysAndLists\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:09:00.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
