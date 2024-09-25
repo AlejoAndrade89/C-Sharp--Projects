@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppArrayAssignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0775b848031e0b456c9f49f2eb3f7b02a0650f1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0786c7e1fc61f2e1d99b194e9a48567bd7b496d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppArrayAssignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppArrayAssignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
