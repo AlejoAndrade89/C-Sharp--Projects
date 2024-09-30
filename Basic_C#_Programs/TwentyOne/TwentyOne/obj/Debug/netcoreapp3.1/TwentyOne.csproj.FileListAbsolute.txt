@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.exe
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.deps.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.sourcelink.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.genruntimeconfig.cache

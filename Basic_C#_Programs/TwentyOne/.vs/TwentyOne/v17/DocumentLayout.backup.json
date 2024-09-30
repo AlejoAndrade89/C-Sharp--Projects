@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\TwentyOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53C32688-3626-4057-B9D0-63EE5AC94EEA}|TwentyOne\\TwentyOne.csproj|c:\\users\\danie\\onedrive\\desktop\\javascript_projects\\c-sharp--projects\\basic_c#_programs\\twentyone\\twentyone\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C32688-3626-4057-B9D0-63EE5AC94EEA}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C32688-3626-4057-B9D0-63EE5AC94EEA}|TwentyOne\\TwentyOne.csproj|c:\\users\\danie\\onedrive\\desktop\\javascript_projects\\c-sharp--projects\\basic_c#_programs\\twentyone\\twentyone\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C32688-3626-4057-B9D0-63EE5AC94EEA}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C32688-3626-4057-B9D0-63EE5AC94EEA}|TwentyOne\\TwentyOne.csproj|c:\\users\\danie\\onedrive\\desktop\\javascript_projects\\c-sharp--projects\\basic_c#_programs\\twentyone\\twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C32688-3626-4057-B9D0-63EE5AC94EEA}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Deck.cs",
+              "RelativeDocumentMoniker": "TwentyOne\\Deck.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Deck.cs",
+              "RelativeToolTip": "TwentyOne\\Deck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:25:40.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Card.cs",
+              "RelativeDocumentMoniker": "TwentyOne\\Card.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Card.cs",
+              "RelativeToolTip": "TwentyOne\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T21:54:38.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Program.cs",
+              "RelativeDocumentMoniker": "TwentyOne\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Program.cs",
+              "RelativeToolTip": "TwentyOne\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T21:43:17.207Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\CallingMethodsAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD792359-23A3-4873-9C3B-2B52A72327DA}|CallingMethodsAssignment\\CallingMethodsAssignment.csproj|c:\\users\\danie\\onedrive\\desktop\\javascript_projects\\c-sharp--projects\\basic_c#_programs\\callingmethodsassignment\\callingmethodsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD792359-23A3-4873-9C3B-2B52A72327DA}|CallingMethodsAssignment\\CallingMethodsAssignment.csproj|solutionrelative:callingmethodsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD792359-23A3-4873-9C3B-2B52A72327DA}|CallingMethodsAssignment\\CallingMethodsAssignment.csproj|c:\\users\\danie\\onedrive\\desktop\\javascript_projects\\c-sharp--projects\\basic_c#_programs\\callingmethodsassignment\\callingmethodsassignment\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD792359-23A3-4873-9C3B-2B52A72327DA}|CallingMethodsAssignment\\CallingMethodsAssignment.csproj|solutionrelative:callingmethodsassignment\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\CallingMethodsAssignment\\CallingMethodsAssignment\\Operations.cs",
+              "RelativeDocumentMoniker": "CallingMethodsAssignment\\Operations.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\CallingMethodsAssignment\\CallingMethodsAssignment\\Operations.cs",
+              "RelativeToolTip": "CallingMethodsAssignment\\Operations.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:50:18.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\CallingMethodsAssignment\\CallingMethodsAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "CallingMethodsAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\CallingMethodsAssignment\\CallingMethodsAssignment\\Program.cs",
+              "RelativeToolTip": "CallingMethodsAssignment\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAnwBwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:49:16.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

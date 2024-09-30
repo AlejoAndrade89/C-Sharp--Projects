@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.sourcelink.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.exe
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.deps.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.genruntimeconfig.cache
