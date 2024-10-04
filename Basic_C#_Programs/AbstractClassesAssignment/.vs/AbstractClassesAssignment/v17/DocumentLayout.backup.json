@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\AbstractClassesAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19F93753-6DEF-498C-B5B8-A944B508A4B4}|AbstractClassesAssignment.csproj|c:\\users\\danie\\onedrive\\desktop\\javascript_projects\\c-sharp--projects\\basic_c#_programs\\abstractclassesassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F93753-6DEF-498C-B5B8-A944B508A4B4}|AbstractClassesAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F93753-6DEF-498C-B5B8-A944B508A4B4}|AbstractClassesAssignment.csproj|c:\\users\\danie\\onedrive\\desktop\\javascript_projects\\c-sharp--projects\\basic_c#_programs\\abstractclassesassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F93753-6DEF-498C-B5B8-A944B508A4B4}|AbstractClassesAssignment.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F93753-6DEF-498C-B5B8-A944B508A4B4}|AbstractClassesAssignment.csproj|c:\\users\\danie\\onedrive\\desktop\\javascript_projects\\c-sharp--projects\\basic_c#_programs\\abstractclassesassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F93753-6DEF-498C-B5B8-A944B508A4B4}|AbstractClassesAssignment.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\AbstractClassesAssignment\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\AbstractClassesAssignment\\Employee.cs*",
+              "RelativeToolTip": "Employee.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:28:25.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\AbstractClassesAssignment\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\AbstractClassesAssignment\\Person.cs*",
+              "RelativeToolTip": "Person.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:25:38.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\AbstractClassesAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\AbstractClassesAssignment\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:25:18.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AbstractClassesAssignment\bin\Debug\netcoreapp3.1\AbstractClassesAssignment.exe
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AbstractClassesAssignment\bin\Debug\netcoreapp3.1\AbstractClassesAssignment.deps.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AbstractClassesAssignment\bin\Debug\netcoreapp3.1\AbstractClassesAssignment.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AbstractClassesAssignment\bin\Debug\netcoreapp3.1\AbstractClassesAssignment.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AbstractClassesAssignment\bin\Debug\netcoreapp3.1\AbstractClassesAssignment.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AbstractClassesAssignment\bin\Debug\netcoreapp3.1\AbstractClassesAssignment.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AbstractClassesAssignment\obj\Debug\netcoreapp3.1\AbstractClassesAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AbstractClassesAssignment\obj\Debug\netcoreapp3.1\AbstractClassesAssignment.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AbstractClassesAssignment\obj\Debug\netcoreapp3.1\AbstractClassesAssignment.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AbstractClassesAssignment\obj\Debug\netcoreapp3.1\AbstractClassesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AbstractClassesAssignment\obj\Debug\netcoreapp3.1\AbstractClassesAssignment.sourcelink.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AbstractClassesAssignment\obj\Debug\netcoreapp3.1\AbstractClassesAssignment.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AbstractClassesAssignment\obj\Debug\netcoreapp3.1\AbstractClassesAssignment.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\AbstractClassesAssignment\obj\Debug\netcoreapp3.1\AbstractClassesAssignment.genruntimeconfig.cache
