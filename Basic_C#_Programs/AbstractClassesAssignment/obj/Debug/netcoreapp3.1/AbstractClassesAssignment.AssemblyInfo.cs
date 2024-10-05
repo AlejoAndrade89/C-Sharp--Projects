@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbstractClassesAssignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b3da748d3970d2d168944543d8cebf6b87babaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+459a530ddef632e06ffb419845c67f81b2f68e90")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbstractClassesAssignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbstractClassesAssignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

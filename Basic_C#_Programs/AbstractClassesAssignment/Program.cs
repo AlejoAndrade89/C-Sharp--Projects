@@ -21,12 +21,20 @@ namespace AbstractClassesAssignment
     {
         static void Main(string[] args)
         {
+
+            // Polymorphism in action, created an object of type IQuittable and called the Quit method on it.
+            Employee employee = new Employee();
+
+            IQuittable quittableEmployee = employee;
+
+            quittableEmployee.Quit();
+
             // New Employee object instantiated.
-            Employee employee = new Employee() { FirstName = "Sample", LastName = "Student" };
+            //Employee employee = new Employee() { FirstName = "Sample", LastName = "Student" };
 
             // Call of the method on the object.
-            employee.SayName();
-            Console.ReadLine();
+           // employee.SayName();
+            //Console.ReadLine();
 
         }
     }
