@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\OperatorAssignment\bin\Debug\netcoreapp3.1\OperatorAssignment.exe
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\OperatorAssignment\bin\Debug\netcoreapp3.1\OperatorAssignment.deps.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\OperatorAssignment\bin\Debug\netcoreapp3.1\OperatorAssignment.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\OperatorAssignment\bin\Debug\netcoreapp3.1\OperatorAssignment.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\OperatorAssignment\bin\Debug\netcoreapp3.1\OperatorAssignment.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\OperatorAssignment\bin\Debug\netcoreapp3.1\OperatorAssignment.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\OperatorAssignment\obj\Debug\netcoreapp3.1\OperatorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\OperatorAssignment\obj\Debug\netcoreapp3.1\OperatorAssignment.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\OperatorAssignment\obj\Debug\netcoreapp3.1\OperatorAssignment.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\OperatorAssignment\obj\Debug\netcoreapp3.1\OperatorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\OperatorAssignment\obj\Debug\netcoreapp3.1\OperatorAssignment.sourcelink.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\OperatorAssignment\obj\Debug\netcoreapp3.1\OperatorAssignment.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\OperatorAssignment\obj\Debug\netcoreapp3.1\OperatorAssignment.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\OperatorAssignment\obj\Debug\netcoreapp3.1\OperatorAssignment.genruntimeconfig.cache

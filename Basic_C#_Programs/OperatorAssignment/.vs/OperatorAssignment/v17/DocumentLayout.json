@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\OperatorAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5810103C-993E-4ED3-B715-9795E43C217E}|OperatorAssignment.csproj|c:\\users\\danie\\onedrive\\desktop\\javascript_projects\\c-sharp--projects\\basic_c#_programs\\operatorassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5810103C-993E-4ED3-B715-9795E43C217E}|OperatorAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5810103C-993E-4ED3-B715-9795E43C217E}|OperatorAssignment.csproj|c:\\users\\danie\\onedrive\\desktop\\javascript_projects\\c-sharp--projects\\basic_c#_programs\\operatorassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5810103C-993E-4ED3-B715-9795E43C217E}|OperatorAssignment.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\OperatorAssignment\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\OperatorAssignment\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:12:03.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\OperatorAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\Javascript_Projects\\C-Sharp--Projects\\Basic_C#_Programs\\OperatorAssignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:11:43.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
