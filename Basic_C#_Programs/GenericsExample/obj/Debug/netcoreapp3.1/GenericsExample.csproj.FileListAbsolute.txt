@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\GenericsExample\bin\Debug\netcoreapp3.1\GenericsExample.exe
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\GenericsExample\bin\Debug\netcoreapp3.1\GenericsExample.deps.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\GenericsExample\bin\Debug\netcoreapp3.1\GenericsExample.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\GenericsExample\bin\Debug\netcoreapp3.1\GenericsExample.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\GenericsExample\bin\Debug\netcoreapp3.1\GenericsExample.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\GenericsExample\bin\Debug\netcoreapp3.1\GenericsExample.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\GenericsExample\obj\Debug\netcoreapp3.1\GenericsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\GenericsExample\obj\Debug\netcoreapp3.1\GenericsExample.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\GenericsExample\obj\Debug\netcoreapp3.1\GenericsExample.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\GenericsExample\obj\Debug\netcoreapp3.1\GenericsExample.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\GenericsExample\obj\Debug\netcoreapp3.1\GenericsExample.sourcelink.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\GenericsExample\obj\Debug\netcoreapp3.1\GenericsExample.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\GenericsExample\obj\Debug\netcoreapp3.1\GenericsExample.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\GenericsExample\obj\Debug\netcoreapp3.1\GenericsExample.genruntimeconfig.cache

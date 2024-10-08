@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.exe
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.deps.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.sourcelink.json
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.dll
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.pdb
+C:\Users\danie\OneDrive\Desktop\Javascript_Projects\C-Sharp--Projects\Basic_C#_Programs\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.genruntimeconfig.cache

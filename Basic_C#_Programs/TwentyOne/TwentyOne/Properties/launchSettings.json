@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TwentyOne": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
